@@ -15,6 +15,7 @@ print(texto+' '+nombre)
 ##########################
 #llamando a un metodo
 print('es la primera vezz que {} aprende a programar'.format(nombre))
+print('titulo por que puedo ')
 #tercera forma f-string
 print(f'aprende programar con {nombre}')
 #creando las historias locas
