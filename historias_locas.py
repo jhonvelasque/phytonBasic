@@ -1,4 +1,4 @@
-print('hola mundo')
+print('hola mundo 2.0')
 ##INICIO DE COMO VAMOS HACER NUESTRO APLICATIVO DE HISTORIAS LOCAS go
 # concatedenar cadenas
 #supongamos que queremos crear una cadena que diga 
