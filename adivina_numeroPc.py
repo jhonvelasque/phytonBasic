@@ -28,6 +28,6 @@ def adivinaComputadora (x):
 
 
 if __name__=="__main__":
-    adivinaComputadora(5)
-
+    adivinaComputadora(20)
+    print('bien hecho pc')
 #if name =='__name__' :
