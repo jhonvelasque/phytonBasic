@@ -1,6 +1,6 @@
 from pyexpat import XML_PARAM_ENTITY_PARSING_NEVER
 import random
-def adivinaComputadora (x):
+def adivinaComputador (x):
     print('''=================
           bienvenido al juego
           =================== ''')
@@ -28,6 +28,6 @@ def adivinaComputadora (x):
 
 
 if __name__=="__main__":
-    adivinaComputadora(20)
+    adivinaComputador(20)
     print('bien hecho pc')
 #if name =='__name__' :
