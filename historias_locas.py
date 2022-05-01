@@ -9,7 +9,10 @@ print('hola mundo')
 nombre='jhon'
 texto='aprende a programar con '
 print(texto+' '+nombre)
+
+#########################
 #segunda forma
+##########################
 #llamando a un metodo
 print('es la primera vezz que {} aprende a programar'.format(nombre))
 #tercera forma f-string
