@@ -28,3 +28,7 @@ if __name__=="__main__":
     num=int(input('ingrese un numero '))
     adivina_numero(num)
     print ('a hora buena')
+elif:
+    esto nos eta matran 
+     dnsdd andf lksd lfkd k k k  flkdm 
+     
